@@ -1,4 +1,5 @@
 # Unity Toolbox
+![Toolbox Eloi Theme Photo](https://github.com/EloiStree/UnityToolbox/blob/master/EloiWorking.jpg?raw=true)
 Hello, this reperitory is here to track where my tools should be improve, corrected or debugged.
 So feel free to warn me if you are not happy with a code I did here:
 https://github.com/EloiStree/UnityToolbox/issues
