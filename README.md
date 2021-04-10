@@ -4,9 +4,10 @@ Hello, this reperitory is here to track where my tools should be improve, correc
 So feel free to warn me if you are not happy with a code I did here:  
 https://github.com/EloiStree/UnityToolbox/issues  
 
-Find the full list of my unity package toolbox, here:  
-https://github.com/users/EloiStree/projects/4  
+Find the full list of my unity package toolbox, here:
+- Actual list: https://github.com/EloiStree/UnityToolbox/discussions/categories/unity-package
+- Previous list: https://github.com/users/EloiStree/projects/4  
 
 If one of those are usefull to your daily life,  
  play the game truthfully, make a(some) donation(s):  
-[One time(Paypal)](https://www.paypal.me/eloistree), [Montly(Patreon)](https://www.patreon.com/eloistree)"
+[One time(Paypal)](https://www.paypal.me/eloistree), [Montly(Ko-Fi)](https://www.ko-fi.com/eloistree)"
